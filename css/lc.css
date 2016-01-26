@@ -1,0 +1,22 @@
+.container, .container *{box-sizing:border-box;}
+#skins{width:200px;min-height:382px;margin:0 auto;}
+
+#finance .row div{padding: 0 5px !important;}
+#finance .row{padding:5px 0;}
+
+input{margin:0 !important;}
+.container input[type=text]{padding:3px;}
+.progress{margin:-90px 0 0 17px;
+	position: relative;
+    	z-index: 5;
+}
+input,button,.btn{font-family:'Cuprum' !important;}
+#finance .row>div{padding:5px;}
+.right{float:right;}
+.yell{color:#fc3;}
+
+
+.title{font-size:20px;padding:5px 0;margin:10px 0 0 0;}
+/*input.ng-invalid{border:1px solid #f00;}*/
+
+
